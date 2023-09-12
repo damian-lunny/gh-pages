@@ -3,12 +3,35 @@
     <title>Publii Test</title>
     <link href="https://damian-lunny.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://damian-lunny.github.io/gh-pages" />
-    <updated>2023-09-12T17:45:14+01:00</updated>
+    <updated>2023-09-12T17:52:47+01:00</updated>
     <author>
         <name>Damian Lunny</name>
     </author>
     <id>https://damian-lunny.github.io/gh-pages</id>
 
+    <entry>
+        <title>Two</title>
+        <author>
+            <name>Damian Lunny</name>
+        </author>
+        <link href="https://damian-lunny.github.io/gh-pages/two.html"/>
+        <id>https://damian-lunny.github.io/gh-pages/two.html</id>
+
+        <updated>2023-09-12T17:52:47+01:00</updated>
+            <summary>
+                <![CDATA[
+                    second post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p>second post</p>
+</blockquote>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>New post</title>
         <author>
