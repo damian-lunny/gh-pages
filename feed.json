@@ -9,5 +9,19 @@
         "name": "Damian Lunny"
     },
     "items": [
+        {
+            "id": "https://damian-lunny.github.io/gh-pages/new-post.html",
+            "url": "https://damian-lunny.github.io/gh-pages/new-post.html",
+            "title": "New post",
+            "summary": "Post one Post two",
+            "content_html": "<ul>\n<li>Post one</li>\n<li>Post two</li>\n</ul>\n",
+            "author": {
+                "name": "Damian Lunny"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-12T17:45:14+01:00",
+            "date_modified": "2023-09-12T17:45:14+01:00"
+        }
     ]
 }
