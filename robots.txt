@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://damian-lunny.github.io/gh-pages/sitemap.xml
